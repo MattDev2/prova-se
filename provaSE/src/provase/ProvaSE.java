@@ -17,9 +17,6 @@ public class ProvaSE {
     public static void main(String[] args) {
         System.out.println("AAAAAAAAAAAAAAAAAAA");
         System.out.println("sGROSSSSSSSSSSSSDA");
-        
-        
-        
         System.out.println("sGROSSdasdaSSSDA");
         
     }
