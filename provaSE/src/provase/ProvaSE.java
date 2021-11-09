@@ -15,10 +15,12 @@ public class ProvaSE {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("AAAAAAAAAAAAAAAAAAA");
-        System.out.println("sGROSSSSSSSSSSSSDA");
-        System.out.println("sGROSSdasdaSSSDA");
-        
+        salute("Pumax");
+        salute("Sgrodox");
+    }
+    
+    public static void salute(String name){
+        System.out.println("Hello, "+ name);
     }
     
 }
